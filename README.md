@@ -78,8 +78,8 @@ The following 51 chart types are available:
 
 1.  **Clone the Repository** (Optional):
     ```bash
-    git clone https://github.com/<your-username>/<your-repository>.git
-    cd <your-repository>
+    git clone https://github.com/Charbelto/Interactive-Chart-Generator.git
+    cd Interactive-Chart-Generator
     ```
 2.  **Install Dependencies:**
     ```bash
